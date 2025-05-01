@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` you can use on GitHub for your **Library Management System** built with Tkinter and SQLite:
-
----
-
 # 📚 Library Management System (Python Tkinter + SQLite)
 
 A fully functional desktop-based Library Management System built using **Python**, **Tkinter GUI**, and **SQLite database**. It allows users to manage books, issue/return them, and track user borrowing history with search and overdue fine calculation.
